@@ -1,6 +1,6 @@
-#UAS LAB PBK
-Nama : Rahma Adelia Putri
-NPM  : 213510728      
+<h3>UAS LAB PBK</h3>
+- Nama : Rahma Adelia Putri
+- NPM  : 213510728      
 # widget-example
 
 ## Project setup
@@ -20,4 +20,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# WidgetVueJS-LabPBK
