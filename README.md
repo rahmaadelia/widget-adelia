@@ -1,22 +1,10 @@
-<h3>UAS LAB PBK</h3>
-- Nama : Rahma Adelia Putri
-- NPM  : 213510728      
-# widget-example
+<h1 align="left">UAS & Kuis Lab PBK</h1>
+<h3 align="left">Project widget</h3>
 
-## Project setup
-```
-npm install
-```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmaadelia&label=Profile%20views&color=0e75b6&style=flat" alt="rahmaadelia" /> </p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Rahma Adelia Putri
+- 213410728
+- Pratikum Pemrograman Berbasis Komponen
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<h3 align="left">Teknik Informatika</h3>
