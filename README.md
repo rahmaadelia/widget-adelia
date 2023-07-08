@@ -1,6 +1,6 @@
 #UAS LAB PBK
-Nama : Nurfauzan Hanif
-NPM  : 213510360      
+Nama : Rahma Adelia Putri
+NPM  : 213510728      
 # widget-example
 
 ## Project setup
