@@ -5,9 +5,9 @@
 
 - Rahma Adelia Putri
 - 213410728
-- Pratikum Pemrograman Berbasis Komponen
+- 4A Pratikum Pemrograman Berbasis Komponen
 
-<h3 align="left">Teknik Informatika</h3>
+
 
 ## Project setup
 ```
